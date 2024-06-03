@@ -16,8 +16,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "SASS",
+    "imageSrc": "skills/sass.png"
   },
   {
     "title": "MongoDB",
@@ -26,5 +26,17 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Postgresql",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Photolabs",
+    "imageSrc": "projects/photolab.png",
+    "description": "Single-page application client-side web application that allows users to explore and interact with a vast collection of photos from various categories or topics.",
+    "skills": ["React", "Javascript", "SCSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/merinnaa/photolabs-starter"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Pilpal",
+    "imageSrc": "projects/pilpal.png",
+    "description": "full-stack web app designed to help users manage their medication and supplement intake",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/merinnaa/Pilpal/tree/development"
   },
   {
-    "title": "Project C",
+    "title": "Buybudy",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "full-stack commercial web app ",
+    "skills": ["CSS", "HTML", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/merinnaa/buybuddy_midterm"
   }
 ]
