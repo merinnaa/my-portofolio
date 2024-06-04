@@ -22,5 +22,13 @@
     "skills": ["CSS", "HTML", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://github.com/merinnaa/buybuddy_midterm"
+  },
+  {
+    "title": "Tweeter",
+    "imageSrc": "projects/tweeter.png",
+    "description": "Tweeter is a simple, single-page Twitter clone",
+    "skills": ["CSS", "HTML", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/merinnaa/tweeter?tab=readme-ov-file"
   }
 ]

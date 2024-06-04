@@ -6,7 +6,9 @@ export const Hero = () => {
    <section className={styles.container}>
     <div className={styles.content}>
       <h1 className={styles.title}>Hi, I'm Luwam</h1>
-      <p className={styles.description}>I  believe that the best web applications are those 
+      <p className={styles.description}>Hi, I'm Luwam, 
+      <p>Full stack developer</p>
+      I  believe that the best web applications are those 
         that provide intuitive and enjoyable user experiences.
          My goal is to bridge the gap between design and 
          functionality, ensuring that every application I 

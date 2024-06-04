@@ -27,7 +27,7 @@ const [menuOpen, setMenuOpen] = useState(false)
             <a href='#about'>About</a>
           </li>
           <li>
-            <a href='#experience'>Experience</a>
+            <a href='#experience'>Skills</a>
           </li>
           <li>
             <a href='#project'>Project</a>
