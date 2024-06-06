@@ -9,12 +9,13 @@ export const About = () => {
           <img 
           src={getImageUrl("about/aboutImage.png")} 
           alt = "me sitting with a laptop" 
+          className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Fronted Developer</h3>
+              <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with experience 
                 in building responsive and optimized sites  
@@ -34,7 +35,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Ui Designer</h3>
+              <h3>UI Designer</h3>
               <p>
                 I have designed multiple landing pages and have created 
                 design systems as well  
