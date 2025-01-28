@@ -17,12 +17,15 @@
 .title {
   font-size: 25px;
   font-weight: 700;
+  font-family: var(--font-courier);
 }
 
 .description {
   margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
+  font-family: var(--font-courier);
+
 }
 
 .skills {
@@ -33,6 +36,7 @@
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;
+  font-family: var(--font-courier);
 }
 
 .skill {
@@ -41,13 +45,16 @@
   border-radius: 100px;
   background: var(--color-dark);
   padding: 2px 22px;
+  font-family: var(--font-courier);
 }
 
 .links {
   width: 100%;
   margin-top: 26px;
+  
   display: flex;
   justify-content: space-around;
+  font-family: var(--font-courier);
 }
 
 .link {
@@ -58,4 +65,5 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding:  1px 22px;
+  font-family: var(--font-courier);
 }

@@ -2,7 +2,7 @@
   {
     "title": "Photolabs",
     "imageSrc": "projects/photolab.png",
-    "description": "Single-page application client-side web application that allows users to explore and interact with a vast collection of photos from various categories or topics.",
+    "description": "Single-page application client-side web application.",
     "skills": ["React", "Javascript", "SCSS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/merinnaa/photolabs-starter"
@@ -17,7 +17,7 @@
   },
   {
     "title": "Buybudy",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/buybudy.png",
     "description": "full-stack commercial web app ",
     "skills": ["CSS", "HTML", "Express", "Node"],
     "demo": "https://www.example.com",
@@ -30,5 +30,13 @@
     "skills": ["CSS", "HTML", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://github.com/merinnaa/tweeter?tab=readme-ov-file"
+  },
+  {
+    "title": "EriPMN",
+    "imageSrc": "projects/eripmn.png",
+    "description": "Mentorship program website",
+    "skills": ["CSS", "JS", "wordpress", "Elementor","PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://eripro.ca/mentorship"
   }
 ]
