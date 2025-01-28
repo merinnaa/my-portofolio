@@ -12,6 +12,7 @@
   color: var(--color-text);
   font-size: 35px;
   font-weight: 700;
+  font-family: var(--font-courier);
   letter-spacing: 1.75px;
   text-transform: uppercase;
 }
@@ -53,7 +54,7 @@
 
 .skill p {
   font-size: 25px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-courier);
   font-weight: 500;
 }
 
@@ -80,7 +81,7 @@
 }
 
 .historyItemDetails {
-  font-family: var(--font-roboto);
+  font-family: var(--font-courier);
 }
 
 .historyItemDetails h3 {

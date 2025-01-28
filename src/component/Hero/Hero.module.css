@@ -20,10 +20,11 @@ z-index: 1;
 }
 
 .title {
-  font-size: 72px;
-  font-weight: 900;
+  font-size: 60px;
+  font-weight: 800;
+  font-family: var(--font-courier);
   margin-bottom: 33px;
-  font-family: var(--font-roboto);
+ padding-top: 10px;
   background: linear-gradient(90deg, rgba(255, 255, 255, 1) 70%,rgba(255, 255, 255, 0)120%);
 -webkit-text-fill-color: transparent;
 -webkit-background-clip: text;
@@ -31,8 +32,23 @@ z-index: 1;
 
 .description {
   font-size: 30px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-courier);
+  
   margin-bottom: 52px;
+ 
+}
+
+.description h3 {
+  font-family: var(--font-courier);
+  font-weight: 200;
+  text-indent: 2em;
+  margin-bottom: 1rem;
+}
+.description p {
+  font-family: var(--font-courier);
+  font-weight: 200;
+  margin-top: 1rem;
+  
 }
 
 .contactBtn {

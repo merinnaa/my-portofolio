@@ -38,5 +38,21 @@
   {
     "title": "Tailwind",
     "imageSrc": "skills/tailwind.svg"
+  },
+  {
+    "title": "NextJS",
+    "imageSrc": "skills/next.png"
+  },
+  {
+    "title": "WordPress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Elementor",
+    "imageSrc": "skills/elementor.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
   }
 ]

@@ -12,7 +12,9 @@ margin-right: 10%;
 
 .title {
   color: var(--color-text);
+  font-family: var(--font-courier);
   font-size: 35px;
+  
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
@@ -31,6 +33,7 @@ margin-right: 10%;
 
 .aboutItems {
   color: var(--color-text);
+  
   display: flex;
   flex-direction: column;
   gap: 50px;
@@ -60,10 +63,12 @@ margin-right: 10%;
 .aboutItem h3 {
   font-size: 25px;
   font-weight: 600;
+  font-family: var(--font-courier);
 }
 
 .aboutItem p {
   font-size: 25px;
+  font-family: var(--font-courier);
 }
 
 @media screen and (max-width: 830px) {
